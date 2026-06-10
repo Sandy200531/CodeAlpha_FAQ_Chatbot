@@ -1,0 +1,12 @@
+# =============================================================
+# requirements.txt — FAQ Chatbot (CodeAlpha AI Internship)
+# =============================================================
+# Install all dependencies with:
+#   pip install -r requirements.txt
+# =============================================================
+
+streamlit==1.35.0
+nltk==3.8.1
+scikit-learn==1.4.2
+numpy==1.26.4
+
